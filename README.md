@@ -14,7 +14,7 @@ COMUNICACION BLUETOOTH: https://www.youtube.com/watch?v=nwuxZL9ktRk
 
 APP PARA LA TERMINAL BLUETOOTH: https://play.google.com/store/apps/details?id=ptah.apps.bluetoothterminal
 
-IMPLEMENTACION DEL BUZZER: https://play.google.com/store/apps/details?id=ptah.apps.bluetoothterminal
+IMPLEMENTACION DEL BUZZER: https://www.youtube.com/watch?v=fy23D10oUXQ
 
 LIBRERIA PARA EL SENSOR (DHT11): https://www.arduino.cc/reference/en/libraries/dht-sensor-library/
 
