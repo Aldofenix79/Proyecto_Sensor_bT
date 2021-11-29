@@ -8,6 +8,10 @@ CONEXION
 
 ![image](https://user-images.githubusercontent.com/91091105/143726325-030ba88c-680b-477c-b4c0-6010a1a57d31.png)
 
+VIDEO DEL FUNCIONAMIENTO
+
+
+
 LINKS DE REFERENCIA
 
 COMUNICACION BLUETOOTH: https://www.youtube.com/watch?v=nwuxZL9ktRk
