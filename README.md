@@ -33,4 +33,25 @@ la implementacion consiste en que la comunicacion serial(el monitor serialBT) le
 
 ![image](https://user-images.githubusercontent.com/91091105/144163160-cdac3131-5c68-402d-a14d-5254e0e65e49.png)
 
+CAPTURAS DE PANTALLA DE INTERACCCION
+
+EMPEZANDO LA CONEXION:
+
+![image](https://user-images.githubusercontent.com/91091105/144164802-f1fafe79-e8ea-47a5-97de-ee49d7b0a0ba.png)
+
+ESTABLECIENDO 70 COMO VALOR MAXIMO DE HUMEDAD Y TEMPERATURA
+
+![image](https://user-images.githubusercontent.com/91091105/144164887-53688712-5540-4190-8cce-1b60df1ddcde.png)
+
+ESTABLECIENDO 35 COMO VALOR MAXIMO
+
+![image](https://user-images.githubusercontent.com/91091105/144164916-306f1238-ea4f-4110-a852-a280e739f84a.png)
+
+
+
+
+
+
+
+
 
