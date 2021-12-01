@@ -47,6 +47,9 @@ ESTABLECIENDO 35 COMO VALOR MAXIMO
 
 ![image](https://user-images.githubusercontent.com/91091105/144164916-306f1238-ea4f-4110-a852-a280e739f84a.png)
 
+VIDEO DE FUNCIONAMIENTO
+
+https://drive.google.com/file/d/13sl77OJ44yPaEvZ7hpdYqSmcdwaZ4VBm/view?usp=sharing
 
 
 
